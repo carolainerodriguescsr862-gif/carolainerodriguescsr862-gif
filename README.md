@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi 👋 I'm Carolaine
 
-<!--
-**carolainerodriguescsr862-gif/carolainerodriguescsr862-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer focused on building modern backend applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Technologies
+
+Backend
+
+- Java
+- Spring Boot
+- Spring Security
+- MySQL
+
+Frontend
+
+- React
+- TypeScript
+- HTML
+- CSS
+
+Tools
+
+- Git
+- Maven
+- Insomnia
+
+---
+
+📚 Currently studying
+
+- Spring Boot
+- React with TypeScript
+- REST API development
+
+---
+
+📌 Future Projects
+
+- Authentication API with JWT
+- Gym Management System (Full Stack)
+- Restaurant / Delivery System
+
+---
+
+⭐ Always learning and building new projects.
